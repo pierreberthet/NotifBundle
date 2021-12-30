@@ -1,2 +1,2 @@
 # NotifBundle
-python scripts to bundle into daily batch event notifications
+python scripts to bundle event notifications into daily batchs
